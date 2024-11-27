@@ -2,7 +2,11 @@
 
 This repository contains the implementation and report for a personalized email assistant project conducted as part of the course **ELEC-E7852** Computational Design Interaction during Fall 2024 at Aalto University. The project utilized user and task models to generate contextually appropriate emails tailored to the recipient's relationship with the sender. The project is heavily based on a Jupiter Notebook of the course that is made by Joongi Shin at Aalto University. The task of the assingment was to modify the parameters for the LLM to make better predictions.
 
-See the full report: 
+- See the full report: [Here](/report.pdf)
+
+- For example when the generated topic was "Trip to Spain":
+![image](https://github.com/user-attachments/assets/47d47136-7812-4e73-b915-f7139f05f7c6)
+
 ---
 
 ## Overview
