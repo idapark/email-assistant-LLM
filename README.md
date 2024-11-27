@@ -1,6 +1,6 @@
 # Personalized Email Assistant Using User and Task Models
 
-This repository contains the implementation and report for a personalized email assistant project conducted as part of the course **ELEC-E7852** Computational Design Interaction during Fall 2024 at Aalto University. The project utilized user and task models to generate contextually appropriate emails tailored to the recipient's relationship with the sender. The project is based on a Jupiter Notebook of the course that is made by Joongi Shin at Aalto University.
+This repository contains the implementation and report for a personalized email assistant project conducted as part of the course **ELEC-E7852** Computational Design Interaction during Fall 2024 at Aalto University. The project utilized user and task models to generate contextually appropriate emails tailored to the recipient's relationship with the sender. The project is heavily based on a Jupiter Notebook of the course that is made by Joongi Shin at Aalto University. The task of the assingment was to modify the parameters for the LLM to make better predictions.
 
 See the full report: 
 ---
